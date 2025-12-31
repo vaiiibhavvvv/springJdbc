@@ -3,7 +3,7 @@ package com.example.springJdbc.model;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
-
+// happy new year
 // made scope prototype because multiple copies of this will be created
 @Component
 @Scope("prototype")
